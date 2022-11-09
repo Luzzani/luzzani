@@ -18,3 +18,7 @@
 <h3 align="left">Sobre mi</h3>
  Me gusta el orden y la limpieza, y esto lo llevo también a mi forma de codear. Disfruto la lectura, de todo tipo de libros, incluso cuando no se trata de novelas, puedo estar leyendo documentacion sin darme cuenta que el tiempo pasa. 
  Siempre quiero aprender cosas nuevas, útiles, por eso estoy en constante aprendizaje. Hace poco empecé a estudiar el idioma Inglés, aprovechando mi amor por la lectura, practico el idioma leyendo los libros que ya lei en castellano, ahora en ingles. En este momento estoy releyendo la saga de Harry Potter. Encuentro muy divertido salir a pasear con mi perra, Fiona, (La adopte desde un lugar muy lejano, de ahi el nombre). Cuando me frustro, usualmente mientras codeo, me relaja y despeja hacer natacion, o salir a caminar. Los resultados son muy buenos. Me gusta mas el verano que el invierno, pero si pudiera elegir, eligiria el punto intermedio, cuando el calor se siente pero el viento refresca. Los dias de lluvia me gusta ver peliculas, no me gusta dormir siesta, siento que pierdo el tiempo. Tal vez no de esa impresion pero tambien juego mucho a los videojuegos, especialmente el juego en equipo por objetivos. 
+ 
+ <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luzzani&show_icons=true&locale=en&layout=compact" alt="luzzani" /></p>
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luzzani&show_icons=true&locale=en" alt="luzzani" /></p>

@@ -2,22 +2,22 @@
   <img src="https://user-images.githubusercontent.com/90403563/200921715-b41ed46a-b775-4bf0-9197-77f227024869.gif" alt="doctor nick" height="288" width="388"/>
 </p>
 
-<h1 align="center">Hola 👋, soy Lucas Luzzani</h1>
-<h3 align="center">Desarrollador Front End especializado en React y React Native</h3>
+<h1 align="center">Hi 👋, I'm Lucas Luzzani</h1>
+<h3 align="center">Front End Developer specialized in React and React Native</h3>
 
 ---
 
-🎯 **Sobre mí**
+🎯 **About Me**
 
-Soy desarrollador Front End con más de 3 años de experiencia creando sitios y aplicaciones e-commerce con React, React Native, Next.js y TypeScript.
+I'm a Front End Developer with over 3 years of experience building e-commerce websites and mobile apps using React, React Native, Next.js, and TypeScript.
 
-Actualmente trabajo para itGlobers en modalidad remota desde Argentina, donde colaboro en el desarrollo de plataformas para grandes marcas como **Olímpica**, **La Rebaja**, **Chedraui**. También realizo proyectos freelance.
+I currently work remotely from Argentina at **itGlobers**, collaborating on large-scale platforms for companies like **Olímpica**, **La Rebaja**, and **Chedraui**. I also take on freelance projects.
 
-🛠️ Trabajo bajo metodologías ágiles (Scrum), con **Jira**.
+🛠️ I work with agile methodologies (Scrum), using tools like **Jira**, and follow best practices for clean code, testing, and API integration (REST & GraphQL).
 
 ---
 
-💼 **Tecnologías y herramientas que uso:**
+💼 **Technologies & Tools I Use:**
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
@@ -33,13 +33,15 @@ Actualmente trabajo para itGlobers en modalidad remota desde Argentina, donde co
 
 ---
 
-📚 **Un poco más personal**
+📚 **A Bit More About Me**
 
-Me apasiona la lectura (incluso documentación técnica 😄) y estoy aprendiendo inglés leyendo libros que ya conozco, como la saga de Harry Potter. En mi tiempo libre nado, paseo con mis perros Fiona 🐶 y Zoro disfruto de los videojuegos cooperativos. Me gusta ir al cine con mi esposa, o ir a pasear a lugares verdes.
+I'm passionate about reading (even technical docs 😄). I'm currently learning English with a private tutor and practicing by reading books I already know — like the Harry Potter series — in English.
+
+In my free time, I enjoy swimming, playing cooperative video games, walking my dogs **Fiona** 🐶 and **Zoro**, going to the movies with my wife, and spending time in nature.
 
 ---
 
-📫 **Conectemos:**
+📫 **Let's Connect:**
 
 <a href="https://www.linkedin.com/in/lucas-luzzani-b4a0a4214/" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40"/>
@@ -47,12 +49,12 @@ Me apasiona la lectura (incluso documentación técnica 😄) y estoy aprendiend
 
 ---
 
-📊 **Estadísticas de GitHub**
+📊 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luzzani&show_icons=true&locale=es" alt="Estadísticas GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=luzzani&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luzzani&show_icons=true&locale=es&layout=compact" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luzzani&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>

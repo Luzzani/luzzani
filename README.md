@@ -52,9 +52,5 @@ In my free time, I enjoy swimming, playing cooperative video games, walking my d
 📊 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luzzani&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luzzani&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
